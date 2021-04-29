@@ -1,0 +1,39 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log(&quot;$msg$&quot;)" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="jsdoc" value="/**&#10; * @method $functionName$&#10; * @param {type} argName - description &#10; * @return {type} argName - description&#10; * @desc: &#10; * @author: CanisMinor&#10; * @date: $DATE$&#10; */" description="jsdoc注释" toReformat="false" toShortenFQNames="true">
+    <variable name="functionName" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="//style" value="/******************************************************&#10;*********************** Style ************************* &#10;******************************************************/  " description="注释 style" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="//dom" value="/******************************************************&#10;************************* Dom ************************* &#10;******************************************************/  " description="注释 dom" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="//func" value="/******************************************************&#10;************************ Func ************************* &#10;******************************************************/             " description="注释 func" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="//render" value="/********************** Render **************************/" description="注释 render" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="//com" value="/********************** Components **************************/" description="注释 components" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

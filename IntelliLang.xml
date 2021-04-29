@@ -1,0 +1,20 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SCSS" injector-id="js">
+      <display-name>styled-components-1</display-name>
+      <prefix>sc_dummy {</prefix>
+      <suffix>}</suffix>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(jsArgument("styled", 0))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withParent(psiElement().withParent(psiElement().withText(string().startsWith("Styled"))))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().contains(".extend")))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("injectGlobal")))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("styled")))]]></place>
+    </injection>
+    <injection language="SCSS" injector-id="js">
+      <display-name>styled-components-2</display-name>
+      <prefix>dummy {</prefix>
+      <suffix>}</suffix>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\..*?\\`(.*?)\\`"))]]></place>
+    </injection>
+  </component>
+</application>

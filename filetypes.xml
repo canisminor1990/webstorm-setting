@@ -1,0 +1,33 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="GeneratorService" type="AUTO_DETECTED" />
+      <mapping pattern=".roadhogrc" type="JSON" />
+      <mapping ext="cocoascript" type="JavaScript" />
+      <mapping ext="sketchscript" type="JavaScript" />
+      <mapping pattern="xm_nav" type="Less" />
+      <mapping pattern="SAN_RandomEquipmentPrefixes&amp;Affixes.js" type="PLAIN_TEXT" />
+      <mapping pattern="Animation" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="creep" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".bebelrc" type="PLAIN_TEXT" />
+      <mapping pattern="tasks" type="PLAIN_TEXT" />
+      <mapping pattern="xm_nav.less" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="react" type="PLAIN_TEXT" />
+      <mapping pattern="button-group" type="PLAIN_TEXT" />
+      <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping pattern="_meida" type="PLAIN_TEXT" />
+      <mapping ext="tucao" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="xdl64" type="PLAIN_TEXT" />
+      <mapping pattern="*.html.liquid" type="Twig" />
+      <mapping ext="liquid" type="Twig" />
+      <mapping ext="njk" type="Twig" />
+      <mapping ext="swig" type="Twig" />
+      <mapping ext="wxml" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
