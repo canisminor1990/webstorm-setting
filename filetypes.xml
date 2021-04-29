@@ -23,6 +23,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="xdl64" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern="*.html.liquid" type="Twig" />
       <mapping ext="liquid" type="Twig" />
       <mapping ext="njk" type="Twig" />
