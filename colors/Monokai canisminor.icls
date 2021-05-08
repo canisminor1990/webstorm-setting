@@ -643,6 +643,12 @@
     <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="404040" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="GQL_ID">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
