@@ -3,8 +3,8 @@
     <option name="premium" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="indicatorStyle" value="None" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="40e954a4:1791d421659:-8000" />
   </component>
 </application>
