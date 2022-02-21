@@ -4,7 +4,7 @@
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Hack" />
+  <option name="CONSOLE_FONT_NAME" value="Hack Nerd Font Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="ffcc00" />
