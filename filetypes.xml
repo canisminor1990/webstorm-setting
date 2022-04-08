@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="GeneratorService" type="AUTO_DETECTED" />
+      <mapping pattern=".releaserc" type="JSON" />
       <mapping pattern=".roadhogrc" type="JSON" />
       <mapping ext="gltf" type="JSON" />
       <mapping ext="cocoascript" type="JavaScript" />
