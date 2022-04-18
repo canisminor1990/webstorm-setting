@@ -4,14 +4,14 @@
     <property name="created">2022-04-16T21:30:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-04-18T09:48:30</property>
+    <property name="modified">2022-04-18T10:00:57</property>
     <property name="originalScheme">Canis Minor Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Hack NF" />
+  <option name="EDITOR_FONT_NAME" value="Hack Nerd Font Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Hack NF" />
+  <option name="CONSOLE_FONT_NAME" value="Hack Nerd Font Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
@@ -1351,7 +1351,6 @@
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7f7e77" />
         <option name="EFFECT_COLOR" value="51504b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
