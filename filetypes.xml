@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="GeneratorService" type="AUTO_DETECTED" />
-      <mapping pattern=".releaserc" type="JSON" />
       <mapping pattern=".huskyrc" type="JSON" />
+      <mapping pattern=".releaserc" type="JSON" />
+      <mapping pattern=".meta" type="JSON" />
       <mapping pattern=".roadhogrc" type="JSON" />
       <mapping ext="gltf" type="JSON" />
       <mapping ext="cocoascript" type="JavaScript" />
@@ -12,17 +13,17 @@
       <mapping pattern="xm_nav" type="Less" />
       <mapping pattern="css" type="PLAIN_TEXT" />
       <mapping pattern="react" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
-      <mapping pattern="creep" type="PLAIN_TEXT" />
       <mapping pattern="button-group" type="PLAIN_TEXT" />
-      <mapping pattern=".bebelrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_meida" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="SAN_RandomEquipmentPrefixes&amp;Affixes.js" type="PLAIN_TEXT" />
       <mapping pattern="Animation" type="PLAIN_TEXT" />
       <mapping pattern="xm_nav.less" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="creep" type="PLAIN_TEXT" />
+      <mapping pattern=".bebelrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="tucao" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
@@ -32,6 +33,8 @@
       <removed_mapping ext="fish" approved="true" type="TypeScript" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="meta" approved="true" type="JSON" />
+      <removed_mapping pattern=".meta" approved="true" type="AspectJ" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
       <mapping pattern="*.html.liquid" type="Twig" />
       <mapping ext="liquid" type="Twig" />
