@@ -4,7 +4,7 @@
     <property name="created">2022-04-16T21:30:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-04-18T10:00:57</property>
+    <property name="modified">2022-04-20T16:01:36</property>
     <property name="originalScheme">Canis Minor Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -99,7 +99,7 @@
     <option name="LOOKUP_COLOR" value="353431" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
-    <option name="MODIFIED_TAB_ICON" value="91ff" />
+    <option name="MODIFIED_TAB_ICON" value="" />
     <option name="MT_FILESTATUS_ADDED" value="87be22" />
     <option name="MT_FILESTATUS_COPIED" value="87be22" />
     <option name="MT_FILESTATUS_DELETED" value="353431" />
@@ -161,8 +161,8 @@
     <option name="ScrollBar.thumbBorderColor" value="" />
     <option name="ScrollBar.thumbColor" value="" />
     <option name="ScrollBar.trackColor" value="" />
-    <option name="TAB_UNDERLINE" value="91ff" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="954a5" />
+    <option name="TAB_UNDERLINE" value="" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="" />
     <option name="TEARLINE_COLOR" value="282826" />
     <option name="TOOLTIP" value="2e2e2b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
@@ -287,28 +287,16 @@
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="ededec" />
-        <option name="BACKGROUND" value="3e3e3a" />
-      </value>
+      <value />
     </option>
     <option name="BREADCRUMBS_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="51504b" />
-        <option name="BACKGROUND" value="212121" />
-      </value>
+      <value />
     </option>
     <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="eaf6ff" />
-        <option name="BACKGROUND" value="91ff" />
-      </value>
+      <value />
     </option>
     <option name="BREADCRUMBS_INACTIVE">
-      <value>
-        <option name="FOREGROUND" value="51504b" />
-        <option name="BACKGROUND" value="212121" />
-      </value>
+      <value />
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -3937,14 +3925,10 @@
       </value>
     </option>
     <option name="TAB_SELECTED">
-      <value>
-        <option name="FOREGROUND" value="ededec" />
-      </value>
+      <value />
     </option>
     <option name="TAB_SELECTED_INACTIVE">
-      <value>
-        <option name="FOREGROUND" value="2e2e2b" />
-      </value>
+      <value />
     </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
