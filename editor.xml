@@ -14,6 +14,9 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="js.chain.hints" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
