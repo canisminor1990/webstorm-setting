@@ -19,6 +19,7 @@
       <mapping pattern="button-group" type="PLAIN_TEXT" />
       <mapping pattern=".bebelrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="_meida" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="SAN_RandomEquipmentPrefixes&amp;Affixes.js" type="PLAIN_TEXT" />

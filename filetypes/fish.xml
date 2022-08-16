@@ -15,6 +15,8 @@
     <keywords4 keywords="and;begin;bg;bind;block;break;breakpoint;builtin;case;cd;clear;command;commandline;complete;contains;continue;count;echo;else;emit;end;exec;exit;false;fg;fish;fish_realpath;fish_right_prompt;fisher;for;function;functions;if;jobs;not;or;printf;pwd;random;read;return;set;set_color;source;status;suspend;switch;test;true;ulimit;while" />
   </highlighting>
   <extensionMap>
+    <mapping pattern="pre-commit" />
+    <mapping pattern="commit-msg" />
     <mapping ext="fish" />
   </extensionMap>
 </filetype>
